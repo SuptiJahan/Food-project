@@ -121,3 +121,19 @@ img.images {
 .page_variety {
     padding: 5% 9%;
 }
+/*last section*/
+.lastcontent {
+    background: black;
+    padding: 10%;
+}
+.lastcontent h1 {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+.lastcontent h2 {
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    padding-top: 26px;
+}

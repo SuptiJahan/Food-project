@@ -90,3 +90,34 @@ p.secondarys {
     color: var(--secondary);
     font-size: 18px;
 }
+/*menu-item part*/
+.content-items {
+    display: flex;
+}
+img.images {
+    width: 79%;
+    border-radius: 4%;
+}
+.item.name {
+    margin-left: 1%;
+    box-shadow: 4px 11px 10px antiquewhite;
+    padding: 22px;
+    border-radius: 5%;
+}
+.item.name h1 {
+    font-size: 32px;
+}
+/*page Followers*/
+.pages {
+    display: flex;
+    margin: 4%;
+    background: whitesmoke;
+    border-radius: 11px;
+}
+.page_variety h1 {
+    text-align: center;
+    font-size: 30px;
+}
+.page_variety {
+    padding: 5% 9%;
+}

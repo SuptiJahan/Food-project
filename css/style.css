@@ -121,6 +121,33 @@ img.images {
 .page_variety {
     padding: 5% 9%;
 }
+/*form-section*/
+.title {
+    text-align: center;
+    font-size: 23px;
+    margin-bottom: 33px;
+    color: var(--secondary);
+    margin-top: 86px;
+}
+input[type="text"], [type="email"], textarea {
+    width: 100%;
+    padding: 10px 5px;
+    border: 1px solid var(--primary);
+    border-radius: 3px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 15px;
+}
+input[type="submit"] {
+    /* text-align: center; */
+    background-color: darkorange;
+    padding: 19px 58px;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 20px;
+    margin-bottom: 34px;
+}
 /*last section*/
 .lastcontent {
     background: black;
